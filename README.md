@@ -10,6 +10,10 @@ Imagen de unos de los servicios.
 
 ![image](https://github.com/yorksgomez/parcial2arep/assets/23731047/2b963e59-87fa-4e3e-98da-7df163a1170c)
 
+## Video de funcionamiento
+
+https://github.com/yorksgomez/parcial2arep/assets/23731047/c047b0aa-5cc4-4dc1-8774-6b9b096be3f5
+
 ### LANZAR EN EC2
 
 Se debe ejecutar mvn clean package en cada uno de los proyectos. Esto generará en target un archivo llamado como Math-service-with-dependencies.jar.
