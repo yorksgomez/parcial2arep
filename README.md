@@ -2,10 +2,12 @@
 
 El proyecto está funcionando correctamente, se conecta desde el servidor Proxy a los servicio Math con RoundRobin.
 
-Imágen del frontend
+Imágen del frontend.
+
 ![image](https://github.com/yorksgomez/parcial2arep/assets/23731047/145f9153-ec59-4c97-837d-1dd621426684)
 
-Imagen de unos de los servicios
+Imagen de unos de los servicios.
+
 ![image](https://github.com/yorksgomez/parcial2arep/assets/23731047/2b963e59-87fa-4e3e-98da-7df163a1170c)
 
 ### LANZAR EN EC2
